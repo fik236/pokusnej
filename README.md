@@ -1,3 +1,3 @@
 # pokusnej
 
-trochu zmenenej readme
+testik
